@@ -17,5 +17,4 @@ Access the deployed app on shinyapps.io here:
 - `shiny_app/www/`: Static resources
 
 ## Authors
-Shuoyuan Gao
-Shiyuan Zhang
+Shuoyuan Gao and Shiyuan Zhang
